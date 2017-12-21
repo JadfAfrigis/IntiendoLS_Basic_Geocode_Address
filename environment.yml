@@ -1,4 +1,4 @@
-name: ilsBinderTest
+name:
 channels:
 - defaults
 dependencies:
