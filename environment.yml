@@ -1,0 +1,15 @@
+name: IntiendoLS_Jupyter_Binder_env
+channels:
+- conda-forge
+dependencies:
+- python
+- hmac
+- hashlib
+- base64
+- urllib
+- time
+- json
+- numpy
+
+
+
